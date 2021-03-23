@@ -219,6 +219,9 @@ h4{
 .footer li a{
     color: #fff;
 }
+.footer-course-list li{
+  margin-bottom: 10px;
+}
 .footer-contact i{
     background-color: #fb607f;
     width: 35px;
