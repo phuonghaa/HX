@@ -127,20 +127,7 @@ html,body {
 .card-body{
     background: #f7dde2;
 }
-.btn-link::after{
-    content: '\2212';
-    width: 35px;
-    font-size: 25px;
-    text-align: center;
-    border-radius: 5px;
-    right: 15px;
-    top: 11px;
-    position: absolute;
-    background-color: #f7dde2;
-}
-.btn-link.collapsed:after{
-    content: '\002B';
-}
+
 
 /* Gallery */ 
 .row{
