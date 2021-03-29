@@ -15,7 +15,7 @@ body {
   background-color: #fb607f;
 }
 .background-mint {
-  background-color: #0e91e0;
+  background-color: #346989;
 }
 
 .strokeme {
@@ -26,7 +26,7 @@ body {
 
 /* Navbar */
 .navbar-custom {
-  background-color: #0e91e0;
+  background-color: #346989;
   color: #fff;
 }
 
@@ -35,7 +35,7 @@ body {
   font-weight: 600;
 }
 .dropdown-menu {
-  background-color: #0e91e0;
+  background-color: #346989;
   border: none;
 }
 .dropdown-item {
@@ -62,7 +62,7 @@ body {
 
 /* Footer */
 .footer {
-  background-color: #0e91e0;
+  background-color: #346989;
   position: absolute;
   color: #fff;
   width: 100vw;
