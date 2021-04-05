@@ -15,7 +15,7 @@ body {
   background-color: #fb607f;
 }
 .background-mint {
-  background-color: #346989;
+  background-color: #0c7aec;
 }
 
 .strokeme {
@@ -26,7 +26,7 @@ body {
 
 /* Navbar */
 .navbar-custom {
-  background-color: #346989;
+  background-color: #0c7aec;
   color: #fff;
 }
 
@@ -35,7 +35,7 @@ body {
   font-weight: 600;
 }
 .dropdown-menu {
-  background-color: #346989;
+  background-color: #0c7aec;
   border: none;
 }
 .dropdown-item {
@@ -62,7 +62,7 @@ body {
 
 /* Footer */
 .footer {
-  background-color: #346989;
+  background-color: #0c7aec;
   position: absolute;
   color: #fff;
   width: 100vw;
@@ -254,7 +254,7 @@ hr {
 }
 /* ----- */
 .courses-type-photo{
-  height: 250px;
+  height: 450px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
