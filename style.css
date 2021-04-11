@@ -298,10 +298,10 @@ hr {
 .filter-button
 {
     font-size: 18px;
-    border: 1px solid #0c7aec;
+    /* border: 1px solid #0c7aec; */
     border-radius: 5px;
     text-align: center;
-    color:  #0c7aec;
+    color:  #fb607f;
     margin-bottom: 30px;
     background-color: #fff;
 
@@ -318,8 +318,8 @@ hr {
 }
 .filter-button:focus
 {
-    background-color: #fb607f;
-    color: white;
+    background-color: #fff;
+    color: #0c7aec;
 }
 
 .port-image
