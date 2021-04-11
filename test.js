@@ -17,8 +17,9 @@ $(document).ready(function () {
     }
   });
 
-  if ($(".filter-button").removeClass("active")) {
-    $(this).removeClass("active");
-  }
+  // if ($(".filter-button").removeClass("active")) {
+  //   $(this).removeClass("active");
+  // }
   $(this).addClass("active");
+  
 });
